@@ -4,5 +4,4 @@
 # Welcome ADity Deshmukh
 
 
-![Github Logo](/wallpapers/Github-Mark.png)
-
+![Github Logo](C:\Users\ADITYA\Desktop\Wallpapers)
