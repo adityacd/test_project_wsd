@@ -5,16 +5,20 @@ The vi editor (short for visual editor) is a screen editor which is available on
 vi (pronounced "vee-eye") is short for "vi"sual editor. It displays a window into the file being edited that shows 24 lines of text.
 vi lets you add, change, and delete text, but does not provide such formatting capabilities as centering lines or indenting paragraphs.
 
-![Sometext](https:https://upload.wikimedia.org/wikipedia/commons/2/21/NetBSD_6.1_vi_C_Hello_World.png)
+![vi Image](/images/viimage.png)
 
 Below are the commands that are used to control filesystem and vi
 
 1. cd
+
     function fancyAlert(arg) {
       if(arg) {
         $.facebox({div:'#foo'})
       }
     }
+
+    git clone
+
 2. mkdir
     mkdir <directory name>
 
