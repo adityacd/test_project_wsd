@@ -10,15 +10,17 @@ vi lets you add, change, and delete text, but does not provide such formatting c
 Below are the commands that are used to control filesystem and vi
 
 1. cd
-
+```
     function fancyAlert(arg) {
       if(arg) {
         $.facebox({div:'#foo'})
       }
     }
+```
 
-    git clone
-
+```    
+git clone
+```
 2. mkdir
     mkdir <directory name>
 
