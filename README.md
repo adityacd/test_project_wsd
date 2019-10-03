@@ -3,10 +3,10 @@
 
 # Welcome Aditya Deshmukh
 
-## **1. [GitFlow](/gitflow.md)
-## 2. [Vi Commands](/vicommands.md)
-## 3. Docker
-## 4. Continous Integration**
+1. [GitFlow](/gitflow.md)
+2. [Vi Commands](/vicommands.md)
+3. Docker
+4. Continous Integration
 
 
 ![Github Logo](/images/GitHub-Mark.png)
