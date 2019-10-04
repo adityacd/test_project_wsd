@@ -8,8 +8,8 @@
 4. Continous Integration
 
 
-![Github Logo](/images/GitHub-Mark.png)
-![Vi Commands](/images/viimage.png)
+![Github Logo](/images/GitHub-Mark.png =50x50)
+![Vi Commands](/images/viimage.png =100x80)
 
 [Github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
