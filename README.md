@@ -16,7 +16,10 @@
 
 * ADitya Deshmukh
 * Karan Kaul
-*
+
+
+*As data capacities **increase**, the organization and **accessibility** of individual files are becoming even more important in data storage.
+* **Without a file system, stored information wouldn't be isolated into individual files and difficult to identify.**
 
 
 
