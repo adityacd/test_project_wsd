@@ -7,7 +7,7 @@
 3. Docker
 4. Continous Integration
 
-![filesystem](https://user-images.githubusercontent.com/37020817/66274942-bea52600-e851-11e9-9dfc-4ac122c2a3ed.jpg)
+![filesystem][200x200](https://user-images.githubusercontent.com/37020817/66274942-bea52600-e851-11e9-9dfc-4ac122c2a3ed.jpg)
 
 [Github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
